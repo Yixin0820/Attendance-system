@@ -1,0 +1,2009 @@
+{
+  "meta": {
+    "school": "明德理工学院",
+    "college": "信息工程学院",
+    "frontendVersion": "v1.1.2",
+    "weekdayToday": "星期三",
+    "exportedAt": "2026-11-04T06:58:59.944Z"
+  },
+  "rooms": [
+    {
+      "id": "r01",
+      "name": "明理楼314",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 1
+    },
+    {
+      "id": "r02",
+      "name": "明理楼316",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 2
+    },
+    {
+      "id": "r03",
+      "name": "明理楼318",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 3
+    },
+    {
+      "id": "r04",
+      "name": "明理楼317",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 4
+    },
+    {
+      "id": "r05",
+      "name": "明理楼303",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 5
+    },
+    {
+      "id": "r06",
+      "name": "明理楼324",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 6
+    },
+    {
+      "id": "r07",
+      "name": "明理楼302",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 7
+    },
+    {
+      "id": "r08",
+      "name": "明理楼301",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": "学习部常用教室",
+      "sortOrder": 8
+    },
+    {
+      "id": "r09",
+      "name": "明理楼415",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 9
+    },
+    {
+      "id": "r10",
+      "name": "明理楼305",
+      "college": "信息工程学院",
+      "weeks": "第 2-18 周",
+      "note": null,
+      "sortOrder": 10
+    }
+  ],
+  "classes": [
+    {
+      "id": "k01",
+      "name": "软件工程2026级1班",
+      "major": "软件工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "软件工程1班学委",
+      "size": 32,
+      "baseRoomId": "r01"
+    },
+    {
+      "id": "k02",
+      "name": "软件工程2026级2班",
+      "major": "软件工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "软件工程2班学委",
+      "size": 31,
+      "baseRoomId": "r01"
+    },
+    {
+      "id": "k03",
+      "name": "软件工程2026级3班",
+      "major": "软件工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "软件工程3班学委",
+      "size": 33,
+      "baseRoomId": "r02"
+    },
+    {
+      "id": "k04",
+      "name": "软件工程2026级4班",
+      "major": "软件工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "软件工程4班学委",
+      "size": 32,
+      "baseRoomId": "r02"
+    },
+    {
+      "id": "k05",
+      "name": "网络工程2026级1班",
+      "major": "网络工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "网络工程1班学委",
+      "size": 30,
+      "baseRoomId": "r03"
+    },
+    {
+      "id": "k06",
+      "name": "网络工程2026级2班",
+      "major": "网络工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "网络工程2班学委",
+      "size": 30,
+      "baseRoomId": "r03"
+    },
+    {
+      "id": "k07",
+      "name": "通信工程2026级1班",
+      "major": "通信工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "通信工程1班学委",
+      "size": 28,
+      "baseRoomId": "r04"
+    },
+    {
+      "id": "k08",
+      "name": "通信工程2026级2班",
+      "major": "通信工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "通信工程2班学委",
+      "size": 29,
+      "baseRoomId": "r04"
+    },
+    {
+      "id": "k09",
+      "name": "自动化2026级1班",
+      "major": "自动化",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "自动化1班学委",
+      "size": 34,
+      "baseRoomId": "r05"
+    },
+    {
+      "id": "k10",
+      "name": "自动化2026级2班",
+      "major": "自动化",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "自动化2班学委",
+      "size": 33,
+      "baseRoomId": "r05"
+    },
+    {
+      "id": "k11",
+      "name": "自动化2026级3班",
+      "major": "自动化",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "自动化3班学委",
+      "size": 34,
+      "baseRoomId": "r06"
+    },
+    {
+      "id": "k12",
+      "name": "自动化2026级4班",
+      "major": "自动化",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "自动化4班学委",
+      "size": 33,
+      "baseRoomId": "r06"
+    },
+    {
+      "id": "k13",
+      "name": "电气工程2026级1班",
+      "major": "电气工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "电气工程1班学委",
+      "size": 27,
+      "baseRoomId": "r07"
+    },
+    {
+      "id": "k14",
+      "name": "电气工程2026级2班",
+      "major": "电气工程",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "电气工程2班学委",
+      "size": 28,
+      "baseRoomId": "r07"
+    },
+    {
+      "id": "k15",
+      "name": "人工智能2026级1班",
+      "major": "人工智能",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "人工智能1班学委",
+      "size": 31,
+      "baseRoomId": "r09"
+    },
+    {
+      "id": "k16",
+      "name": "人工智能2026级2班",
+      "major": "人工智能",
+      "college": "信息工程学院",
+      "weeks": "第2-18周",
+      "committeeName": "人工智能2班学委",
+      "size": 30,
+      "baseRoomId": "r09"
+    }
+  ],
+  "classroomRules": [
+    {
+      "id": "cr01",
+      "weekday": "星期二",
+      "classId": "k09",
+      "roomId": "r10"
+    },
+    {
+      "id": "cr02",
+      "weekday": "星期二",
+      "classId": "k10",
+      "roomId": "r10"
+    }
+  ],
+  "staff": [
+    {
+      "id": "s01",
+      "name": "王浩然",
+      "role": "干事",
+      "phone": "138****0001"
+    },
+    {
+      "id": "s02",
+      "name": "李思远",
+      "role": "组长",
+      "phone": "138****0002"
+    },
+    {
+      "id": "s03",
+      "name": "张子涵",
+      "role": "组长",
+      "phone": "138****0003"
+    },
+    {
+      "id": "s04",
+      "name": "刘梓萱",
+      "role": "干事",
+      "phone": "138****0004"
+    },
+    {
+      "id": "s05",
+      "name": "陈雨桐",
+      "role": "干事",
+      "phone": "138****0005"
+    },
+    {
+      "id": "s06",
+      "name": "杨宇航",
+      "role": "干事",
+      "phone": "138****0006"
+    },
+    {
+      "id": "s07",
+      "name": "赵欣怡",
+      "role": "干事",
+      "phone": "138****0007"
+    },
+    {
+      "id": "s08",
+      "name": "黄俊杰",
+      "role": "干事",
+      "phone": "138****0008"
+    },
+    {
+      "id": "s09",
+      "name": "周梦琪",
+      "role": "干事",
+      "phone": "138****0009"
+    },
+    {
+      "id": "s10",
+      "name": "吴佳乐",
+      "role": "干事",
+      "phone": "138****0010"
+    },
+    {
+      "id": "s11",
+      "name": "徐天磊",
+      "role": "干事",
+      "phone": "138****0011"
+    },
+    {
+      "id": "s12",
+      "name": "孙若曦",
+      "role": "干事",
+      "phone": "138****0012"
+    },
+    {
+      "id": "s13",
+      "name": "胡晨曦",
+      "role": "干事",
+      "phone": "138****0013"
+    },
+    {
+      "id": "s14",
+      "name": "朱晓东",
+      "role": "干事",
+      "phone": "138****0014"
+    },
+    {
+      "id": "s15",
+      "name": "高欣然",
+      "role": "干事",
+      "phone": "138****0015"
+    },
+    {
+      "id": "s16",
+      "name": "林浩宇",
+      "role": "组长",
+      "phone": "138****0016"
+    },
+    {
+      "id": "s17",
+      "name": "何雅静",
+      "role": "干事",
+      "phone": "138****0017"
+    },
+    {
+      "id": "s18",
+      "name": "郭明轩",
+      "role": "组长",
+      "phone": "138****0018"
+    },
+    {
+      "id": "s19",
+      "name": "罗诗涵",
+      "role": "干事",
+      "phone": "138****0019"
+    },
+    {
+      "id": "s20",
+      "name": "宋佳音",
+      "role": "干事",
+      "phone": "138****0020"
+    },
+    {
+      "id": "s21",
+      "name": "唐子墨",
+      "role": "组长",
+      "phone": "138****0021"
+    },
+    {
+      "id": "s22",
+      "name": "韩雪松",
+      "role": "组长",
+      "phone": "138****0022"
+    },
+    {
+      "id": "s23",
+      "name": "冯一鸣",
+      "role": "干事",
+      "phone": "138****0023"
+    },
+    {
+      "id": "s24",
+      "name": "董思源",
+      "role": "干事",
+      "phone": "138****0024"
+    },
+    {
+      "id": "s25",
+      "name": "萧雅婷",
+      "role": "干事",
+      "phone": "138****0025"
+    },
+    {
+      "id": "s26",
+      "name": "程浩然",
+      "role": "干事",
+      "phone": "138****0026"
+    },
+    {
+      "id": "s27",
+      "name": "潘悦宁",
+      "role": "干事",
+      "phone": "138****0027"
+    }
+  ],
+  "shifts": [
+    {
+      "weekday": "星期一",
+      "type": "查班",
+      "staffIds": [
+        "s01",
+        "s06",
+        "s09",
+        "s12",
+        "s08",
+        "s18",
+        "s17"
+      ]
+    },
+    {
+      "weekday": "星期二",
+      "type": "查班",
+      "staffIds": [
+        "s02",
+        "s07",
+        "s10",
+        "s13",
+        "s16",
+        "s20",
+        "s23"
+      ]
+    },
+    {
+      "weekday": "星期三",
+      "type": "查班",
+      "staffIds": [
+        "s03",
+        "s08",
+        "s11",
+        "s04",
+        "s17",
+        "s27",
+        "s24"
+      ]
+    },
+    {
+      "weekday": "星期四",
+      "type": "查班",
+      "staffIds": [
+        "s04",
+        "s06",
+        "s03",
+        "s14",
+        "s18",
+        "s21",
+        "s23"
+      ]
+    },
+    {
+      "weekday": "星期日",
+      "type": "查班",
+      "staffIds": [
+        "s05",
+        "s09",
+        "s10",
+        "s15",
+        "s19",
+        "s22",
+        "s25"
+      ]
+    },
+    {
+      "weekday": "星期一",
+      "type": "查手机",
+      "staffIds": [
+        "s20",
+        "s19",
+        "s26"
+      ]
+    },
+    {
+      "weekday": "星期二",
+      "type": "查手机",
+      "staffIds": [
+        "s21",
+        "s05",
+        "s22"
+      ]
+    },
+    {
+      "weekday": "星期三",
+      "type": "查手机",
+      "staffIds": [
+        "s16",
+        "s26",
+        "s12"
+      ]
+    },
+    {
+      "weekday": "星期四",
+      "type": "查手机",
+      "staffIds": [
+        "s02",
+        "s13",
+        "s11"
+      ]
+    },
+    {
+      "weekday": "星期日",
+      "type": "查手机",
+      "staffIds": [
+        "s14",
+        "s27",
+        "s01"
+      ]
+    }
+  ],
+  "verifyGroups": [
+    {
+      "id": "vg1",
+      "seq": 1,
+      "leaderId": "s02",
+      "memberIds": [
+        "s01",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "id": "vg2",
+      "seq": 2,
+      "leaderId": "s22",
+      "memberIds": [
+        "s24",
+        "s23",
+        "s26"
+      ]
+    },
+    {
+      "id": "vg3",
+      "seq": 3,
+      "leaderId": "s18",
+      "memberIds": [
+        "s05",
+        "s08",
+        "s17"
+      ]
+    },
+    {
+      "id": "vg4",
+      "seq": 4,
+      "leaderId": "s21",
+      "memberIds": [
+        "s10",
+        "s04",
+        "s11"
+      ]
+    },
+    {
+      "id": "vg5",
+      "seq": 5,
+      "leaderId": "s21",
+      "memberIds": [
+        "s15",
+        "s25",
+        "s14"
+      ]
+    },
+    {
+      "id": "vg6",
+      "seq": 6,
+      "leaderId": "s16",
+      "memberIds": [
+        "s06",
+        "s20",
+        "s07"
+      ]
+    },
+    {
+      "id": "vg7",
+      "seq": 7,
+      "leaderId": "s03",
+      "memberIds": [
+        "s09",
+        "s19",
+        "s27"
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "username": "xw01",
+      "password": "123456",
+      "role": "committee",
+      "name": "软件工程1班学委",
+      "title": "软件工程2026级1班 · 学委",
+      "classId": "k01",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw02",
+      "password": "123456",
+      "role": "committee",
+      "name": "软件工程2班学委",
+      "title": "软件工程2026级2班 · 学委",
+      "classId": "k02",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw03",
+      "password": "123456",
+      "role": "committee",
+      "name": "软件工程3班学委",
+      "title": "软件工程2026级3班 · 学委",
+      "classId": "k03",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw04",
+      "password": "123456",
+      "role": "committee",
+      "name": "软件工程4班学委",
+      "title": "软件工程2026级4班 · 学委",
+      "classId": "k04",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw05",
+      "password": "123456",
+      "role": "committee",
+      "name": "网络工程1班学委",
+      "title": "网络工程2026级1班 · 学委",
+      "classId": "k05",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw06",
+      "password": "123456",
+      "role": "committee",
+      "name": "网络工程2班学委",
+      "title": "网络工程2026级2班 · 学委",
+      "classId": "k06",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw07",
+      "password": "123456",
+      "role": "committee",
+      "name": "通信工程1班学委",
+      "title": "通信工程2026级1班 · 学委",
+      "classId": "k07",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw08",
+      "password": "123456",
+      "role": "committee",
+      "name": "通信工程2班学委",
+      "title": "通信工程2026级2班 · 学委",
+      "classId": "k08",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw09",
+      "password": "123456",
+      "role": "committee",
+      "name": "自动化1班学委",
+      "title": "自动化2026级1班 · 学委",
+      "classId": "k09",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw10",
+      "password": "123456",
+      "role": "committee",
+      "name": "自动化2班学委",
+      "title": "自动化2026级2班 · 学委",
+      "classId": "k10",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw11",
+      "password": "123456",
+      "role": "committee",
+      "name": "自动化3班学委",
+      "title": "自动化2026级3班 · 学委",
+      "classId": "k11",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw12",
+      "password": "123456",
+      "role": "committee",
+      "name": "自动化4班学委",
+      "title": "自动化2026级4班 · 学委",
+      "classId": "k12",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw13",
+      "password": "123456",
+      "role": "committee",
+      "name": "电气工程1班学委",
+      "title": "电气工程2026级1班 · 学委",
+      "classId": "k13",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw14",
+      "password": "123456",
+      "role": "committee",
+      "name": "电气工程2班学委",
+      "title": "电气工程2026级2班 · 学委",
+      "classId": "k14",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw15",
+      "password": "123456",
+      "role": "committee",
+      "name": "人工智能1班学委",
+      "title": "人工智能2026级1班 · 学委",
+      "classId": "k15",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "xw16",
+      "password": "123456",
+      "role": "committee",
+      "name": "人工智能2班学委",
+      "title": "人工智能2026级2班 · 学委",
+      "classId": "k16",
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "gs01",
+      "password": "123456",
+      "role": "inspector",
+      "name": "王浩然",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s01",
+      "enabled": true
+    },
+    {
+      "username": "gs02",
+      "password": "123456",
+      "role": "inspector",
+      "name": "李思远",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s02",
+      "enabled": true
+    },
+    {
+      "username": "gs03",
+      "password": "123456",
+      "role": "inspector",
+      "name": "张子涵",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s03",
+      "enabled": true
+    },
+    {
+      "username": "gs04",
+      "password": "123456",
+      "role": "inspector",
+      "name": "刘梓萱",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s04",
+      "enabled": true
+    },
+    {
+      "username": "gs05",
+      "password": "123456",
+      "role": "inspector",
+      "name": "陈雨桐",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s05",
+      "enabled": true
+    },
+    {
+      "username": "gs06",
+      "password": "123456",
+      "role": "inspector",
+      "name": "杨宇航",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s06",
+      "enabled": true
+    },
+    {
+      "username": "gs07",
+      "password": "123456",
+      "role": "inspector",
+      "name": "赵欣怡",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s07",
+      "enabled": true
+    },
+    {
+      "username": "gs08",
+      "password": "123456",
+      "role": "inspector",
+      "name": "黄俊杰",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s08",
+      "enabled": true
+    },
+    {
+      "username": "gs09",
+      "password": "123456",
+      "role": "inspector",
+      "name": "周梦琪",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s09",
+      "enabled": true
+    },
+    {
+      "username": "gs10",
+      "password": "123456",
+      "role": "inspector",
+      "name": "吴佳乐",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s10",
+      "enabled": true
+    },
+    {
+      "username": "gs11",
+      "password": "123456",
+      "role": "inspector",
+      "name": "徐天磊",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s11",
+      "enabled": true
+    },
+    {
+      "username": "gs12",
+      "password": "123456",
+      "role": "inspector",
+      "name": "孙若曦",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s12",
+      "enabled": true
+    },
+    {
+      "username": "gs13",
+      "password": "123456",
+      "role": "inspector",
+      "name": "胡晨曦",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s13",
+      "enabled": true
+    },
+    {
+      "username": "gs14",
+      "password": "123456",
+      "role": "inspector",
+      "name": "朱晓东",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s14",
+      "enabled": true
+    },
+    {
+      "username": "gs15",
+      "password": "123456",
+      "role": "inspector",
+      "name": "高欣然",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s15",
+      "enabled": true
+    },
+    {
+      "username": "gs16",
+      "password": "123456",
+      "role": "inspector",
+      "name": "林浩宇",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s16",
+      "enabled": true
+    },
+    {
+      "username": "gs17",
+      "password": "123456",
+      "role": "inspector",
+      "name": "何雅静",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s17",
+      "enabled": true
+    },
+    {
+      "username": "gs18",
+      "password": "123456",
+      "role": "inspector",
+      "name": "郭明轩",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s18",
+      "enabled": true
+    },
+    {
+      "username": "gs19",
+      "password": "123456",
+      "role": "inspector",
+      "name": "罗诗涵",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s19",
+      "enabled": true
+    },
+    {
+      "username": "gs20",
+      "password": "123456",
+      "role": "inspector",
+      "name": "宋佳音",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s20",
+      "enabled": true
+    },
+    {
+      "username": "gs21",
+      "password": "123456",
+      "role": "inspector",
+      "name": "唐子墨",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s21",
+      "enabled": true
+    },
+    {
+      "username": "gs22",
+      "password": "123456",
+      "role": "inspector",
+      "name": "韩雪松",
+      "title": "学习部 · 组长",
+      "classId": null,
+      "staffId": "s22",
+      "enabled": true
+    },
+    {
+      "username": "gs23",
+      "password": "123456",
+      "role": "inspector",
+      "name": "冯一鸣",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s23",
+      "enabled": true
+    },
+    {
+      "username": "gs24",
+      "password": "123456",
+      "role": "inspector",
+      "name": "董思源",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s24",
+      "enabled": true
+    },
+    {
+      "username": "gs25",
+      "password": "123456",
+      "role": "inspector",
+      "name": "萧雅婷",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s25",
+      "enabled": true
+    },
+    {
+      "username": "gs26",
+      "password": "123456",
+      "role": "inspector",
+      "name": "程浩然",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s26",
+      "enabled": true
+    },
+    {
+      "username": "gs27",
+      "password": "123456",
+      "role": "inspector",
+      "name": "潘悦宁",
+      "title": "学习部 · 干事",
+      "classId": null,
+      "staffId": "s27",
+      "enabled": true
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "role": "admin",
+      "name": "管理员",
+      "title": "信息工程学院 · 管理员",
+      "classId": null,
+      "staffId": null,
+      "enabled": true
+    },
+    {
+      "username": "ops",
+      "password": "123456",
+      "role": "ops",
+      "name": "运维",
+      "title": "系统运维",
+      "classId": null,
+      "staffId": null,
+      "enabled": true
+    }
+  ],
+  "leaveReasons": [
+    "病假",
+    "事假"
+  ],
+  "attendance": [
+    {
+      "id": "ar01",
+      "classId": "k01",
+      "className": "软件工程2026级1班",
+      "classroom": "明理楼314",
+      "date": "2026-11-04",
+      "expected": 32,
+      "actual": 29,
+      "leaveCount": 3,
+      "lateUploaded": false,
+      "uploadedAt": "20:31",
+      "leaves": [
+        {
+          "id": "lv0101",
+          "studentName": "张明",
+          "studentId": "20260101",
+          "reason": "病假",
+          "reasonDetail": "感冒发烧",
+          "extraNote": "已联系家长确认",
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k01-f0",
+              "name": "张明_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%BC%A0%E6%98%8E%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0102",
+          "studentName": "刘悦",
+          "studentId": "20260102",
+          "reason": "病假",
+          "reasonDetail": "感冒发烧",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k01-f1",
+              "name": "刘悦_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%88%98%E6%82%A6%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0103",
+          "studentName": "陈浩",
+          "studentId": "20260103",
+          "reason": "比赛",
+          "reasonDetail": "校辩论赛",
+          "extraNote": null,
+          "sharedCertificate": false,
+          "certificateLate": true,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": []
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar02",
+      "classId": "k02",
+      "className": "软件工程2026级2班",
+      "classroom": "明理楼314",
+      "date": "2026-11-04",
+      "expected": 31,
+      "actual": 29,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:38",
+      "leaves": [
+        {
+          "id": "lv0201",
+          "studentName": "李娜",
+          "studentId": "20260201",
+          "reason": "病假",
+          "reasonDetail": "肠胃炎",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k02-f0",
+              "name": "李娜_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%9D%8E%E5%A8%9C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0202",
+          "studentName": "杨帆",
+          "studentId": "20260202",
+          "reason": "实习",
+          "reasonDetail": "企业实习",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k02-f1",
+              "name": "杨帆_实习假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%9D%A8%E5%B8%86%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E5%AE%9E%E4%B9%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E5%AE%9E%E4%B9%A0%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar03",
+      "classId": "k03",
+      "className": "软件工程2026级3班",
+      "classroom": "明理楼316",
+      "date": "2026-11-04",
+      "expected": 33,
+      "actual": 31,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:42",
+      "leaves": [
+        {
+          "id": "lv0301",
+          "studentName": "高远",
+          "studentId": "20260301",
+          "reason": "社团活动",
+          "reasonDetail": "社团联排",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k03-f0",
+              "name": "高远_社团活动假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E9%AB%98%E8%BF%9C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0302",
+          "studentName": "周舟",
+          "studentId": "20260302",
+          "reason": "事假",
+          "reasonDetail": "家中有事",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k03-f1",
+              "name": "周舟_事假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%91%A8%E8%88%9F%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E4%BA%8B%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E4%BA%8B%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar04",
+      "classId": "k04",
+      "className": "软件工程2026级4班",
+      "classroom": "明理楼316",
+      "date": "2026-11-04",
+      "expected": 32,
+      "actual": 31,
+      "leaveCount": 1,
+      "lateUploaded": false,
+      "uploadedAt": "20:47",
+      "leaves": [
+        {
+          "id": "lv0401",
+          "studentName": "孙琪",
+          "studentId": "20260401",
+          "reason": "公假",
+          "reasonDetail": "学院材料报送",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k04-f0",
+              "name": "孙琪_公假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%AD%99%E7%90%AA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E5%85%AC%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E5%85%AC%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar05",
+      "classId": "k05",
+      "className": "网络工程2026级1班",
+      "classroom": "明理楼318",
+      "date": "2026-11-04",
+      "expected": 30,
+      "actual": 27,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:50",
+      "leaves": [
+        {
+          "id": "lv0501",
+          "studentName": "宋茜",
+          "studentId": "20260501",
+          "reason": "事假",
+          "reasonDetail": "驾校考试",
+          "extraNote": null,
+          "sharedCertificate": false,
+          "certificateLate": true,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": []
+        },
+        {
+          "id": "lv0502",
+          "studentName": "范杰",
+          "studentId": "20260502",
+          "reason": "病假",
+          "reasonDetail": "发烧",
+          "extraNote": null,
+          "sharedCertificate": false,
+          "certificateLate": true,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": []
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar06",
+      "classId": "k06",
+      "className": "网络工程2026级2班",
+      "classroom": "明理楼318",
+      "date": "2026-11-04",
+      "expected": 30,
+      "actual": 29,
+      "leaveCount": 1,
+      "lateUploaded": false,
+      "uploadedAt": "20:52",
+      "leaves": [
+        {
+          "id": "lv0601",
+          "studentName": "许诺",
+          "studentId": "20260601",
+          "reason": "比赛",
+          "reasonDetail": "省赛集训",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k06-f0",
+              "name": "许诺_比赛假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E8%AE%B8%E8%AF%BA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E6%AF%94%E8%B5%9B%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E6%AF%94%E8%B5%9B%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar07",
+      "classId": "k07",
+      "className": "通信工程2026级1班",
+      "classroom": "明理楼317",
+      "date": "2026-11-04",
+      "expected": 28,
+      "actual": 26,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:55",
+      "leaves": [
+        {
+          "id": "lv0701",
+          "studentName": "夏白",
+          "studentId": "20260701",
+          "reason": "比赛",
+          "reasonDetail": "省赛集训",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k07-f0",
+              "name": "夏白_比赛假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%A4%8F%E7%99%BD%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E6%AF%94%E8%B5%9B%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E6%AF%94%E8%B5%9B%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0702",
+          "studentName": "秋野",
+          "studentId": "20260702",
+          "reason": "其他",
+          "reasonDetail": "个人事务",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k07-f1",
+              "name": "秋野_其他假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E7%A7%8B%E9%87%8E%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E5%85%B6%E4%BB%96%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E5%85%B6%E4%BB%96%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar08",
+      "classId": "k08",
+      "className": "通信工程2026级2班",
+      "classroom": "明理楼317",
+      "date": "2026-11-04",
+      "expected": 29,
+      "actual": 28,
+      "leaveCount": 1,
+      "lateUploaded": false,
+      "uploadedAt": "20:58",
+      "leaves": [
+        {
+          "id": "lv0801",
+          "studentName": "冬也",
+          "studentId": "20260801",
+          "reason": "事假",
+          "reasonDetail": "医院复查",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k08-f0",
+              "name": "冬也_事假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%86%AC%E4%B9%9F%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E4%BA%8B%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E4%BA%8B%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar09",
+      "classId": "k09",
+      "className": "自动化2026级1班",
+      "classroom": "明理楼303",
+      "date": "2026-11-04",
+      "expected": 34,
+      "actual": 31,
+      "leaveCount": 3,
+      "lateUploaded": true,
+      "uploadedAt": "21:06",
+      "leaves": [
+        {
+          "id": "lv0901",
+          "studentName": "林夕",
+          "studentId": "20260901",
+          "reason": "病假",
+          "reasonDetail": "急性肠胃炎",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k09-f0",
+              "name": "林夕_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%9E%97%E5%A4%95%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0902",
+          "studentName": "江河",
+          "studentId": "20260902",
+          "reason": "病假",
+          "reasonDetail": "急性肠胃炎",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k09-f1",
+              "name": "江河_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%B1%9F%E6%B2%B3%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv0903",
+          "studentName": "吴桐",
+          "studentId": "20260903",
+          "reason": "实习",
+          "reasonDetail": "校企实习",
+          "extraNote": null,
+          "sharedCertificate": false,
+          "certificateLate": true,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": []
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar10",
+      "classId": "k10",
+      "className": "自动化2026级2班",
+      "classroom": "明理楼303",
+      "date": "2026-11-04",
+      "expected": 33,
+      "actual": 31,
+      "leaveCount": 2,
+      "lateUploaded": true,
+      "uploadedAt": "21:14",
+      "leaves": [
+        {
+          "id": "lv1001",
+          "studentName": "白雪",
+          "studentId": "20261001",
+          "reason": "社团活动",
+          "reasonDetail": "志愿服务",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k10-f0",
+              "name": "白雪_社团活动假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E7%99%BD%E9%9B%AA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv1002",
+          "studentName": "顾青",
+          "studentId": "20261002",
+          "reason": "事假",
+          "reasonDetail": "家中长辈住院",
+          "extraNote": "情况特殊，已报辅导员",
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k10-f1",
+              "name": "顾青_事假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E9%A1%BE%E9%9D%92%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E4%BA%8B%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E4%BA%8B%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar11",
+      "classId": "k11",
+      "className": "自动化2026级3班",
+      "classroom": "明理楼324",
+      "date": "2026-11-04",
+      "expected": 34,
+      "actual": 32,
+      "leaveCount": 1,
+      "lateUploaded": false,
+      "uploadedAt": "20:35",
+      "leaves": [
+        {
+          "id": "lv1101",
+          "studentName": "沈亦",
+          "studentId": "20261101",
+          "reason": "公假",
+          "reasonDetail": "校级会议",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k11-f0",
+              "name": "沈亦_公假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%B2%88%E4%BA%A6%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E5%85%AC%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E5%85%AC%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar12",
+      "classId": "k12",
+      "className": "自动化2026级4班",
+      "classroom": "明理楼324",
+      "date": "2026-11-04",
+      "expected": 33,
+      "actual": 31,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:44",
+      "leaves": [
+        {
+          "id": "lv1201",
+          "studentName": "韩雨",
+          "studentId": "20261201",
+          "reason": "病假",
+          "reasonDetail": "过敏",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k12-f0",
+              "name": "韩雨_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E9%9F%A9%E9%9B%A8%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv1202",
+          "studentName": "孟凡",
+          "studentId": "20261202",
+          "reason": "实习",
+          "reasonDetail": "企业实习",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k12-f1",
+              "name": "孟凡_实习假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%AD%9F%E5%87%A1%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E5%AE%9E%E4%B9%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E5%AE%9E%E4%B9%A0%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar13",
+      "classId": "k13",
+      "className": "电气工程2026级1班",
+      "classroom": "明理楼302",
+      "date": "2026-11-04",
+      "expected": 27,
+      "actual": 26,
+      "leaveCount": 1,
+      "lateUploaded": false,
+      "uploadedAt": "20:49",
+      "leaves": [
+        {
+          "id": "lv1301",
+          "studentName": "袁州",
+          "studentId": "20261301",
+          "reason": "其他",
+          "reasonDetail": "个人事务",
+          "extraNote": null,
+          "sharedCertificate": false,
+          "certificateLate": true,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": []
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar14",
+      "classId": "k14",
+      "className": "电气工程2026级2班",
+      "classroom": "明理楼302",
+      "date": "2026-11-04",
+      "expected": 28,
+      "actual": 26,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:53",
+      "leaves": [
+        {
+          "id": "lv1401",
+          "studentName": "邓超",
+          "studentId": "20261401",
+          "reason": "事假",
+          "reasonDetail": "返乡",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k14-f0",
+              "name": "邓超_事假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E9%82%93%E8%B6%85%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E4%BA%8B%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E4%BA%8B%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv1402",
+          "studentName": "曾毅",
+          "studentId": "20261402",
+          "reason": "比赛",
+          "reasonDetail": "数学建模",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k14-f1",
+              "name": "曾毅_比赛假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E6%9B%BE%E6%AF%85%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E6%AF%94%E8%B5%9B%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E6%AF%94%E8%B5%9B%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar15",
+      "classId": "k15",
+      "className": "人工智能2026级1班",
+      "classroom": "明理楼415",
+      "date": "2026-11-04",
+      "expected": 31,
+      "actual": 29,
+      "leaveCount": 2,
+      "lateUploaded": false,
+      "uploadedAt": "20:57",
+      "leaves": [
+        {
+          "id": "lv1501",
+          "studentName": "彭程",
+          "studentId": "20261501",
+          "reason": "社团活动",
+          "reasonDetail": "迎新晚会彩排",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k15-f0",
+              "name": "彭程_社团活动假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E5%BD%AD%E7%A8%8B%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        },
+        {
+          "id": "lv1502",
+          "studentName": "于洋",
+          "studentId": "20261502",
+          "reason": "社团活动",
+          "reasonDetail": "迎新晚会彩排",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k15-f1",
+              "name": "于洋_社团活动假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E4%BA%8E%E6%B4%8B%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    },
+    {
+      "id": "ar16",
+      "classId": "k16",
+      "className": "人工智能2026级2班",
+      "classroom": "明理楼415",
+      "date": "2026-11-04",
+      "expected": 30,
+      "actual": 29,
+      "leaveCount": 1,
+      "lateUploaded": true,
+      "uploadedAt": "21:02",
+      "leaves": [
+        {
+          "id": "lv1601",
+          "studentName": "苏晴",
+          "studentId": "20261601",
+          "reason": "病假",
+          "reasonDetail": "感冒",
+          "extraNote": null,
+          "sharedCertificate": true,
+          "certificateLate": false,
+          "checked": false,
+          "hasIssue": false,
+          "issueDescription": null,
+          "issueBy": null,
+          "certificateFiles": [
+            {
+              "id": "k16-f0",
+              "name": "苏晴_病假假条.jpg",
+              "dataUri": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22560%22%20height%3D%22760%22%20viewBox%3D%220%200%20560%20760%22%3E%0A%20%20%3Crect%20width%3D%22560%22%20height%3D%22760%22%20fill%3D%22%23fdfdfb%22%2F%3E%0A%20%20%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22512%22%20height%3D%22712%22%20fill%3D%22none%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%223%22%2F%3E%0A%20%20%3Ctext%20x%3D%22280%22%20y%3D%2296%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2230%22%20fill%3D%22%231f2937%22%3E%E8%AF%B7%20%E5%81%87%20%E6%9D%A1%3C%2Ftext%3E%0A%20%20%3Cline%20x1%3D%2280%22%20y1%3D%22120%22%20x2%3D%22480%22%20y2%3D%22120%22%20stroke%3D%22%23d8d2c4%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22196%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%94%B3%E8%AF%B7%E4%BA%BA%EF%BC%9A%E8%8B%8F%E6%99%B4%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22252%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E7%B1%BB%E5%88%AB%EF%BC%9A%E7%97%85%E5%81%87%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22308%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E5%AD%A6%E9%99%A2%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22364%22%20font-family%3D%22sans-serif%22%20font-size%3D%2222%22%20fill%3D%22%23374151%22%3E%E6%97%A5%E6%9C%9F%EF%BC%9A2026-11-04%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22440%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E4%BA%8B%E7%94%B1%EF%BC%9A%E6%9C%AC%E4%BA%BA%E5%9B%A0%E7%97%85%E5%81%87%EF%BC%8C%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0%E5%BD%93%E6%97%A5%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%8C%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22480%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%234b5563%22%3E%E7%89%B9%E6%AD%A4%E8%AF%B7%E5%81%87%EF%BC%8C%E6%81%B3%E8%AF%B7%E6%89%B9%E5%87%86%E3%80%82%3C%2Ftext%3E%0A%20%20%3Ccircle%20cx%3D%22420%22%20cy%3D%22600%22%20r%3D%2272%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%224%22%20opacity%3D%220.75%22%2F%3E%0A%20%20%3Ctext%20x%3D%22420%22%20y%3D%22606%22%20text-anchor%3D%22middle%22%20font-family%3D%22serif%22%20font-size%3D%2220%22%20fill%3D%22%23b91c1c%22%20opacity%3D%220.85%22%3E%E5%AD%A6%E9%99%A2%E5%85%AC%E7%AB%A0%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22600%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20fill%3D%22%23374151%22%3E%E8%BE%85%E5%AF%BC%E5%91%98%E7%AD%BE%E5%AD%97%EF%BC%9A%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2272%22%20y%3D%22672%22%20font-family%3D%22sans-serif%22%20font-size%3D%2218%22%20fill%3D%22%236b7280%22%3E%E6%9C%AC%E5%9B%BE%E7%89%87%E4%B8%BA%E6%BC%94%E7%A4%BA%E7%94%A8%E5%8D%A0%E4%BD%8D%E5%81%87%E6%9D%A1%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+            }
+          ]
+        }
+      ],
+      "phoneViolations": []
+    }
+  ],
+  "swaps": [
+    {
+      "id": "sw1",
+      "staffId": "s18",
+      "staffName": "郭明轩",
+      "targetStaffId": "s17",
+      "targetStaffName": "何雅静",
+      "week": "本周",
+      "targetWeek": "本周",
+      "fromWeekday": "星期一",
+      "fromType": "查班",
+      "toWeekday": "星期三",
+      "toType": "查班",
+      "reason": "周一有专业课程冲突，想请同学帮忙替班",
+      "status": "pending",
+      "reviewNote": null,
+      "createdAt": "2026-10-26 18:20",
+      "reviewedAt": null
+    },
+    {
+      "id": "sw2",
+      "staffId": "s21",
+      "staffName": "唐子墨",
+      "targetStaffId": "s11",
+      "targetStaffName": "徐天磊",
+      "week": "本周",
+      "targetWeek": "本周",
+      "fromWeekday": "星期四",
+      "fromType": "查班",
+      "toWeekday": "星期三",
+      "toType": "查班",
+      "reason": "周四需要参加校外实习面试",
+      "status": "approved",
+      "reviewNote": "没问题，我来替你",
+      "createdAt": "2026-10-26 21:05",
+      "reviewedAt": "2026-10-26 21:40"
+    },
+    {
+      "id": "sw3",
+      "staffId": "s26",
+      "staffName": "程浩然",
+      "targetStaffId": "s12",
+      "targetStaffName": "孙若曦",
+      "week": "本周",
+      "targetWeek": "本周",
+      "fromWeekday": "星期一",
+      "fromType": "查手机",
+      "toWeekday": "星期三",
+      "toType": "查手机",
+      "reason": "周一有体能测试",
+      "status": "pending",
+      "reviewNote": null,
+      "createdAt": "2026-10-27 09:12",
+      "reviewedAt": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-26",
+      "weekday": "星期一",
+      "totalExpected": 495,
+      "totalActual": 483,
+      "totalLeave": 12,
+      "issues": 2
+    },
+    {
+      "date": "2026-10-25",
+      "weekday": "星期日",
+      "totalExpected": 495,
+      "totalActual": 488,
+      "totalLeave": 7,
+      "issues": 1
+    },
+    {
+      "date": "2026-10-22",
+      "weekday": "星期四",
+      "totalExpected": 495,
+      "totalActual": 491,
+      "totalLeave": 4,
+      "issues": 0
+    },
+    {
+      "date": "2026-10-21",
+      "weekday": "星期三",
+      "totalExpected": 495,
+      "totalActual": 480,
+      "totalLeave": 15,
+      "issues": 3
+    },
+    {
+      "date": "2026-10-20",
+      "weekday": "星期二",
+      "totalExpected": 495,
+      "totalActual": 489,
+      "totalLeave": 6,
+      "issues": 1
+    },
+    {
+      "date": "2026-10-19",
+      "weekday": "星期一",
+      "totalExpected": 495,
+      "totalActual": 486,
+      "totalLeave": 9,
+      "issues": 2
+    },
+    {
+      "date": "2026-10-18",
+      "weekday": "星期日",
+      "totalExpected": 495,
+      "totalActual": 490,
+      "totalLeave": 5,
+      "issues": 0
+    },
+    {
+      "date": "2026-10-15",
+      "weekday": "星期四",
+      "totalExpected": 495,
+      "totalActual": 484,
+      "totalLeave": 11,
+      "issues": 1
+    },
+    {
+      "date": "2026-10-14",
+      "weekday": "星期三",
+      "totalExpected": 495,
+      "totalActual": 487,
+      "totalLeave": 8,
+      "issues": 0
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "星期二",
+      "totalExpected": 495,
+      "totalActual": 485,
+      "totalLeave": 10,
+      "issues": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[Unit]
+Description=晚自习考勤管理系统 API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/opt/attendance/backend
+Environment="PATH=/opt/attendance/backend/.venv/bin"
+EnvironmentFile=/opt/attendance/backend/.env
+# workers 按 CPU 核数给，学院自用 2~4 个足够
+ExecStart=/opt/attendance/backend/.venv/bin/uvicorn app.main:app \
+    --host 127.0.0.1 --port 8000 --workers 2 \
+    --proxy-headers --forwarded-allow-ips '*'
+Restart=always
+RestartSec=3
+StandardOutput=append:/var/log/attendance/api.log
+StandardError=append:/var/log/attendance/api.log
+
+[Install]
+WantedBy=multi-user.target

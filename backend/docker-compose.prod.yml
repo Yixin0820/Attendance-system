@@ -1,0 +1,72 @@
+# 生产编排：PostgreSQL + 后端 API + nginx（前端静态文件）。
+#
+# 用法（在项目根目录先构建前端静态文件）：
+#   npm run build                       # 产出 dist/
+#   cd backend
+#   cp .env.example .env                # 填 SECRET_KEY / POSTGRES_PASSWORD / CORS_ORIGINS
+#   docker compose -f docker-compose.prod.yml up -d --build
+#   docker compose -f docker-compose.prod.yml run --rm api alembic upgrade head
+#   docker compose -f docker-compose.prod.yml run --rm api python -m app.seed.run_seed
+#
+# 只有 nginx 对外暴露 80/443；数据库端口不映射到宿主机，只能在内网访问。
+
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: attendance-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-attendance}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?请在 .env 里设置 POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB:-attendance}
+      TZ: Asia/Shanghai
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-attendance} -d ${POSTGRES_DB:-attendance}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks: [internal]
+
+  api:
+    build: .
+    container_name: attendance-api
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-attendance}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB:-attendance}
+      UPLOAD_DIR: /app/uploads
+      UVICORN_WORKERS: ${UVICORN_WORKERS:-2}
+      TZ: Asia/Shanghai
+    volumes:
+      - uploads:/app/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+    networks: [internal]
+    # 不对外发布端口：只让 nginx 通过内网访问，减少被直接扫描的风险
+
+  web:
+    image: nginx:1.27-alpine
+    container_name: attendance-web
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # 前端产物（根目录 dist/）以只读方式挂进去
+      - ../dist:/usr/share/nginx/html:ro
+      - ../deploy/nginx/attendance.conf:/etc/nginx/conf.d/default.conf:ro
+      # HTTPS 证书目录；还没申请证书时先删掉下面这行也能跑纯 HTTP
+      - ../deploy/certs:/etc/nginx/certs:ro
+    depends_on: [api]
+    networks: [internal]
+
+volumes:
+  pgdata:
+  uploads:
+
+networks:
+  internal:
+    driver: bridge

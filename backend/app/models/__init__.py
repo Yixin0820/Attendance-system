@@ -1,0 +1,47 @@
+"""导出全部 ORM 模型，供 Alembic / 应用侧 `Base.metadata.create_all` 使用。"""
+
+from app.core.database import Base
+from app.models.entities import (  # noqa: F401
+    Account,
+    AppLog,
+    Attachment,
+    AttendanceRecord,
+    ClassGroup,
+    ClassroomRule,
+    ExpectedChange,
+    LeaveReason,
+    LeaveRecord,
+    PhoneViolation,
+    ReviewRecord,
+    Room,
+    Shift,
+    ShiftMember,
+    Staff,
+    SwapNotice,
+    SwapRequest,
+    VerifyGroup,
+    VerifyGroupMember,
+)
+
+__all__ = [
+    "Base",
+    "Account",
+    "AppLog",
+    "Attachment",
+    "AttendanceRecord",
+    "ClassGroup",
+    "ClassroomRule",
+    "ExpectedChange",
+    "LeaveReason",
+    "LeaveRecord",
+    "PhoneViolation",
+    "ReviewRecord",
+    "Room",
+    "Shift",
+    "ShiftMember",
+    "Staff",
+    "SwapNotice",
+    "SwapRequest",
+    "VerifyGroup",
+    "VerifyGroupMember",
+]
